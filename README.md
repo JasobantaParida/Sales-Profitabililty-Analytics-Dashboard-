@@ -40,7 +40,7 @@ A high-level view of sales performance with key business KPIs, revenue trends, m
 
 A detailed view of profitability and revenue contribution across different markets and customers.
 
-![Profit Analysis](./Dashboard_Previews/Profit_Analysis.png)
+![Profit Analysis](./Dashboard_Previews/Profit Analysis.png)
 
 ### 🔎 Key Analysis
 
